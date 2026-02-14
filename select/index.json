@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "橙一点",
+  "base_artist": "獅子志司",
+  "createdAt": "2026-02-14T08:22:02.412391Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "橙一点",
+      "artist": "獅子志司",
+      "has_synced": false,
+      "path": "select/pl_01_橙一点_獅子志司.txt"
+    }
+  ]
+}
